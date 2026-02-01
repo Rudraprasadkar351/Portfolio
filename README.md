@@ -84,6 +84,18 @@ A clean, simple, and fully responsive portfolio website designed for professiona
 ```
 portfolio.html (single file - all HTML, CSS, and JavaScript)
 documentation.md (this file)
+
+My-Portfolio/
+ ├── index.html
+ ├── styles.css
+ ├── script.js
+ ├── covid.png
+ ├── ipl.jpg
+ ├── obe.jpg
+ ├── profile.jpg
+ ├── student.png
+ └── README.md
+
 ```
 
 ## How to Use
