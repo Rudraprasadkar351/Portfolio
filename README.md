@@ -1,4 +1,4 @@
-# Professional Portfolio Website - Documentation
+# Portfolio Website - Documentation
 
 ## Project Overview
 A clean, simple, and fully responsive portfolio website designed for professionals to showcase their projects, skills, and contact information. Built with pure HTML, CSS, and JavaScript with a traditional navigation structure.
@@ -203,6 +203,3 @@ Currently, form submissions are logged to the browser console. To implement actu
 - No attribution required but appreciated
 
 ---
-
-**Last Updated**: January 31, 2026
-**Version**: 1.0
