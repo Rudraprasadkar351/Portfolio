@@ -82,10 +82,7 @@ A clean, simple, and fully responsive portfolio website designed for professiona
 ## File Structure
 
 ```
-portfolio.html (single file - all HTML, CSS, and JavaScript)
-documentation.md (this file)
-
-My-Portfolio/
+Portfolio/
  ├── index.html
  ├── styles.css
  ├── script.js
